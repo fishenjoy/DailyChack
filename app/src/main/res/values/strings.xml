@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">我的日常</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">luckyzackzhang@163.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">设置</string>
+
+    <string name="menu_home">信用卡</string>
+    <string name="menu_gallery">股票</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="text_creadit_card">信用卡</string>
+    <string name="text_gf">广发</string>
+    <string name="text_pf">浦发</string>
+    <string name="text_jh">交行</string>
+    <string name="text_xy">兴业</string>
+    <string name="text_zs">招商</string>
+
+    <string name="bill_day">账单日</string>
+    <string name="rapa_day">还款日</string>
+
+    <string name="a_stock_text">当前A股指数:</string>
+</resources>
